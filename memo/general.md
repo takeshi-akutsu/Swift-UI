@@ -30,8 +30,16 @@ struct WhetherViewModel {
 
 ```
 
+
 - 似たようなものに `@EnvironmentObject` があるが、複数の画面間で値の共有をしたい場合に使う（Session情報とかかなあ。この辺はあまり詳しくない。調べる必要ありそう。）
 
 
 
 # Combine
+
+
+
+### Special Thanks to
+- [SwiftUI + CombineでMVVM](https://tech.88oct.co.jp/entry/2019/10/23/095058)
+- [MVVM with Combine Tutorial for iOS / raywenderlich.com](https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios)
+- [MVVM with Combine Tutorial for iOS （日本語略版）](https://qiita.com/you_matz/items/a3d640be2a8feaf698bd)
